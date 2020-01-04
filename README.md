@@ -1,2 +1,2 @@
 # hello-world
-A simple first project in the traditional mode
+Hello World is a simple example that first appeared in "The C Programming Language" by K&R.
